@@ -4,7 +4,7 @@
 
 Olá! Primeiramente, agradeço por visitar o meu portfólio. Meu objetivo é crescer profissionalmente na área de análise e ciência de dados, unindo prática e aprendizado contínuo para desenvolver soluções que gerem valor através dos dados.
 
-Atualmente, sou estudante em busca da minha primeira oportunidade no universo dos dados. Estou finalizando a Formação de Analista de Dados pela Data Science Academy, onde venho desenvolvendo projetos com foco em SQL e Python aplicados à análise e ciência de dados. Já trabalhei com transformação de dados, análise exploratória, técnicas de encoding e também modelagem de dados utilizando o Power BI. Estou em constante evolução e aprendizado, sempre buscando me aprimorar para entregar resultados cada vez melhores..
+Atualmente, sou estudante em busca da minha primeira oportunidade no universo dos dados. Estou finalizando a Formação de Analista de Dados pela Data Science Academy, onde venho desenvolvendo projetos com foco em SQL e Python aplicados à análise e ciência de dados. Já trabalhei com transformação de dados, análise exploratória, técnicas de encoding e também modelagem de dados utilizando o Power BI. Estou em constante evolução e aprendizado, sempre buscando me aprimorar para entregar resultados cada vez melhores.
 
 ### 🤖 Linguagens e Tecnologias
 
