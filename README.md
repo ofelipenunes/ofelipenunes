@@ -2,11 +2,11 @@
 
 **`Junior Data Analyst`**
 
-Olá! Primeiramente, agradeço por visitar o meu portfólio. Meu objetivo é crescer profissionalmente na área de análise e ciência de dados, unindo prática e aprendizado contínuo para desenvolver soluções que gerem valor através dos dados.
+Hello! First of all, thank you for visiting my portfolio. My goal is to grow professionally in the area of ​​data analysis and science, combining practice and continuous learning to develop solutions that generate value through data.
 
-Atualmente, sou estudante em busca da minha primeira oportunidade no universo dos dados. Estou finalizando a Formação de Analista de Dados pela Data Science Academy, onde venho desenvolvendo projetos com foco em SQL e Python aplicados à análise e ciência de dados. Já trabalhei com transformação de dados, análise exploratória, técnicas de encoding e também modelagem de dados utilizando o Power BI. Estou em constante evolução e aprendizado, sempre buscando me aprimorar para entregar resultados cada vez melhores.
+I am currently a student looking for my first opportunity in the data universe. I am finishing my Data Analyst Training at Data Science Academy, where I have been developing projects focused on SQL and Python applied to data analysis and science. I have worked with data transformation, exploratory analysis, coding techniques and also data modeling using Power BI. I am constantly evolving and learning, always seeking to improve myself to deliver increasingly better results.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
  align="left" 
