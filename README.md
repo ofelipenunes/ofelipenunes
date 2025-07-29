@@ -1,6 +1,6 @@
 # 💻Felipe Nunes
 
-**`Junior Data Analyst`**
+**`Beginner Data Scientist`**
 
 Hello! First of all, thank you for visiting my portfolio. My goal is to grow professionally in the area of ​​data analysis and science, combining practice and continuous learning to develop solutions that generate value through data.
 
